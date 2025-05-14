@@ -1,0 +1,87 @@
+------------------------------------Machine Learning-----------------------------------
+ 
+Stage 1 : Data Gathering
+Stage 2 : EDA
+Stage 3 : Data Preparation
+Stage 4 : Build a model [apply a suitable ML algo on dataset]
+Stage 5 : Evaluate Our Model Performance
+Stage 6 : Final Predictions
+ 
+---------------------------------------------------
+Types Of Machine Learning
+
+a.) SUPERVISED ML - WELL LABELLED DATASET. BOTH INPUT AND OUTPUT INFORMATION IS AVAILABLE
+		i.) Regression   : predict continuous data
+		                   predict numbers [int float]
+			           score marks salaries ....
+		ii.) Classification : predict categorical data
+		                      yes/no  true/false  fail/pass
+				      0/1   disease/no-disease
+b.) UNSUPERVISED ML - UNLABELLED DATASET. ONLY INPUT INFORMATION IS AVAILABLE
+c.) REINFORCEMENT ML - NO INPUT NO OUTPUT
+
+===============SUPERVISED ML================
+--------------REGRESSION-------------------- 
+a.) Simple Linear Regression
+b.) Polynomial Regression 
+c.) Multiple Linear Regression
+--------------CLASSIFICATION-------------------- 
+a.) Logistic Regression
+---------------------------
+Focus on Confusion Matrix
+---------------------------
+
+===============UNSUPERVISED ML=================
+a.) Apriori Algorithm:
+	Pillars of apriori: support--confidence--lift
+	Association Rule Mining
+	Search Transactional data for its practice
+
+=============AI================================
+NLP - Sentiment analysis
+OpenCV - CCTV and Camera related projects
+
+-------Till Sunday Evening-------------
+
+logistic regression
+association rule mining using apriori algorithm
+confusion matrix
+
+
+------------------------------------NLP-----------------------------------
+NLP with pythons NLTK Package
+1. Tokenizing - separating texts in chunks of words.
+	a.) word tokenize
+	b.) sentence tokenize
+2. Stop words - removing unnecessary words
+3. Stemming - reducing words to core part of word (happiness -> happy)
+4. Part-of-speech tagging
+5. TextBlob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
